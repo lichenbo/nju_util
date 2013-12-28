@@ -1,0 +1,15 @@
+退选页面的退选链接：
+javascript:deleteElective('57325','Linux程序设计');
+发送的请求：
+http://jwas2.nju.edu.cn:8080/jiaowu/student/elective/courseList.do?method=deleteElectiveResult&classId=57325
+RequestHeader：
+GET /jiaowu/student/elective/courseList.do?method=deleteElectiveResult&classId=57325 HTTP/1.1
+Host: jwas2.nju.edu.cn:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+Referer: http://jwas2.nju.edu.cn:8080/jiaowu/student/elective/courseList.do?method=getElectiveResult
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+Cookie: JSESSIONID=65C575DB94ED255DF240CB386DBDB6B3; iPlanetDirectoryPro=AQIC5wM2LY4SfcytpGIn96ogUASzkEqhez14vdNXopYu4ow%3D%40AAJTSQACMDE%3D%23; amlbcookie=02; AMAuthCookie=AQIC5wM2LY4Sfczw2mZrswedCDigPYOPEBVVhJ4jCQvyCLM%3D%40AAJTSQACMDI%3D%23
+
